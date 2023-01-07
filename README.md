@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm **Lexon Blackzz** (youtube.com/c/LexonBlackzz), a youtuber who's looking to learn programming and do random stuff, LOL
-- 🌱 I’m currently learning ***Python*** 
+- 🌱 I’m currently learning ***Python***, and **Rust**
 - 📫 How to reach me: **Lexon#6442** 
 - 😄 Pronouns: *He/Him* 
 - ⚡ Fun fact: Did you know that the earth is **round**? 
