@@ -12,11 +12,17 @@ YouTube Milestones
 - 6K+ Subscribers 
 - 3M+ Views Video 
 
-My Specs: 💻
+My PC Specs: 🖥️
+- Intel Core i5-13600KF @5.1 GHz
+- 16GB 3600MHz CL16 DDR4 RAM
+- 1TB M.2 SSD (WD Blue SN570)
+- MSI GeForce RTX 3060 Ventus 2X OC
+
+My Laptop Specs: 💻
 - Ryzen 5 4500U @2.38 GHz 
 - 8GB 3200MHz CL22 DDR4 RAM 
-- 256GB M.2 SSD (2TB External HDD) 
+- 256GB M.2 SSD
 - Radeon Graphics 6 (Vega 6) 
-- BenQ Mobiuz EX2510S Gaming Monitor (1080p, 165Hz IPS)
+
 
 I'm looking forward into being a good person and help the community!
