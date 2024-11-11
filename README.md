@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 I'm **Lexon Blackzz** (youtube.com/c/LexonBlackzz), a youtuber who's looking to learn programming and do random stuff, LOL
-- 🌱 I’m currently learning ***Python***, and **Rust**
+- 🌱 I’m currently learning ***Python***
 - 📫 How to reach me: **@lexonwastaken on Discord, @LBlackzz on Twitter** 
 - 😄 Pronouns: *He/Him* 
 - ⚡ Fun fact: Did you know that the earth is **round**? 
 
 YouTube Milestones 
 
-- 4.5+ Million Views 
-- 6K+ Subscribers 
+- 5.1+ Million Views 
+- 6.3K+ Subscribers 
 - 3M+ Views Video 
 
 My PC Specs: 🖥️
@@ -23,7 +23,6 @@ My Laptop Specs: 💻
 - 8GB 3200MHz CL22 DDR4 RAM 
 - 256GB M.2 SSD
 - Radeon Graphics 6 (Vega 6)
-- Currently running Arch btw lol
 
 
-I'm looking forward into being a good person and help the community!
+If anyone has tips on how to learn a programming language effectively, I'm all ears. 👀
