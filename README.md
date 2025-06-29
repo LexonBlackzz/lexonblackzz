@@ -18,11 +18,4 @@ My PC Specs: 🖥️
 - 1TB M.2 SSD (WD Blue SN570)
 - MSI GeForce RTX 3060 Ventus 2X OC
 
-My Laptop Specs: 💻
-- Ryzen 5 4500U @2.38 GHz 
-- 8GB 3200MHz CL22 DDR4 RAM 
-- 256GB M.2 SSD
-- Radeon Graphics 6 (Vega 6)
-
-
 If anyone has tips on how to learn a programming language effectively, I'm all ears. 👀
